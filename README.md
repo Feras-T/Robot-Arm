@@ -1,2 +1,2 @@
 # Robot-Arm
-You should see video first 
+To understand the project, you should see the video first.
