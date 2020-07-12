@@ -1,2 +1,2 @@
 # Robot-Arm
-You should see Video First 
+You should see video first 
